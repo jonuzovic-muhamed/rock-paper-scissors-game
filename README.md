@@ -1,7 +1,7 @@
-# Rock Paper Scissors Webapp Game
+# Rock Paper Scissors Game
 
 ## Links
-<a href="" target="_blank" rel="noopener noreferrer">Play the Game</a>
+<a href="" target="_blank" rel="noopener noreferrer">Play the Game</a></br>
 <a href="https://www.theodinproject.com/lessons/foundations-rock-paper-scissors" target="_blank" rel="noopener noreferrer">Take a look at the project assignment</a>
 
 ## About
